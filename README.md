@@ -1,5 +1,5 @@
 # Factorial-finding-in-C
-In this repository, program for finding factorial of a number is done in C
+In this repository, program for finding factorial of a number is done in 
 C program for finding factorial of a number using recursion.
 #include<stdio.h> 
 
