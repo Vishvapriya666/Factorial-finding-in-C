@@ -1,6 +1,6 @@
 # Factorial-finding-in-C
 In this repository, program for finding factorial of a number is done in 
-C program for finding factorial of a number using recursion.
+C
 #include<stdio.h> 
 
 int main() 
